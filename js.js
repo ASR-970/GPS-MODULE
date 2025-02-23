@@ -1,4 +1,4 @@
-const colab_url = "https://71a7-34-145-101-146.ngrok-free.app/";  // Use your new ngrok link
+const colab_url = "https://9eb6-34-145-101-146.ngrok-free.app/";  // Use your new ngrok link
 
 function sendLocation(latitude, longitude) {
     fetch(colab_url, {
