@@ -33,4 +33,4 @@ function getLocation() {
 }
 
 // Get location on page load
-getLocation();
+setInterval(getLocation,5000);
